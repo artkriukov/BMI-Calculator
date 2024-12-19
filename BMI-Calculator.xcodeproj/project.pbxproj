@@ -29,6 +29,11 @@
 			path = "BMI-Calculator";
 			sourceTree = "<group>";
 		};
+		AC6310382D14696900ED71DD /* Models */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Models;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +52,7 @@
 			children = (
 				AC630FFF2D11BF6500ED71DD /* BMI-Calculator */,
 				AC630FFE2D11BF6500ED71DD /* Products */,
+				AC6310382D14696900ED71DD /* Models */,
 			);
 			sourceTree = "<group>";
 		};
@@ -75,6 +81,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				AC630FFF2D11BF6500ED71DD /* BMI-Calculator */,
+				AC6310382D14696900ED71DD /* Models */,
 			);
 			name = "BMI-Calculator";
 			packageProductDependencies = (
